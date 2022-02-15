@@ -1,1 +1,1 @@
-# qr-v2
+# qr-code-v2
